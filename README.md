@@ -8,4 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently a student at School of Code
 - :crescent_moon: Aspiring to be a software engineer!
-- My tech includes, but is not limited to: JS, TS, React.js, Node.js, Cypress, Jest and PostgreSQL
+
+# Tech stack
+
+![Cypress]({https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white})
