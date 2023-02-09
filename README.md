@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 # Tech stack
 
 ![Cypress]({https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white})
+<img src="{https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white}" />
