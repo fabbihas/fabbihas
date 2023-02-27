@@ -11,4 +11,4 @@ Junior Software Developer, passionate about technology creating innovative solut
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50"/> My tech stack
 
-JavaScript • TypeScript • React.js • Node.js • PostgreSQL • Auth0 • Jest • Cypress • Express.js • Supertest 
+JavaScript • TypeScript • React.js • Node.js • PostgreSQL • Auth0 • Jest • Cypress • Express.js • Supertest • Chakra UI • Tailwind CSS • Render, Netlify, and Heroku
