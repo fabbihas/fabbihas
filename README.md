@@ -6,7 +6,7 @@ Junior Software Developer, passionate about technology creating innovative solut
 
 - 💼 Career changer from healthcare to tech
 - 📚 Currently learning GraphQL and Python
-- 👁‍🗨 Currently looking for a role in software development 
+- 👁‍🗨 Currently working as a graduate software engineer
 - 💌 If you would like to get in touch, don't be afraid to [contact](https://www.linkedin.com/in/fwabbiha) me
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50"/> My tech stack
