@@ -7,7 +7,6 @@ Software Developer, passionate about technology creating innovative solutions to
 - 💼 Career changer from healthcare to tech
 - 📚 Currently learning AWS
 - 👁‍🗨 Currently working as a graduate software engineer
-- 💌 If you would like to get in touch, don't be afraid to [contact](https://www.linkedin.com/in/fwabbiha) me
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50"/> My tech stack
 
