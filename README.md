@@ -6,9 +6,9 @@ Software Developer, passionate about technology creating innovative solutions to
 
 - 💼 Career changer from healthcare to tech
 - 📚 Currently learning AWS
-- 👁‍🗨 Currently working as a graduate software engineer
+- 👁‍🗨 Currently working as an Atlassian developer
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50"/> My tech stack
 
-JavaScript • TypeScript • React.js • Node.js • PostgreSQL • Auth0 • Jest • Cypress • Express.js • AWS DynamoDB • AWS Lambda • MongoDB
+JavaScript • TypeScript • React.js • Node.js • PostgreSQL • Auth0 • Jest • Cypress • Express.js • AWS DynamoDB • AWS Lambda • MongoDB • Express.js • AWS Step Functions • AWS CloudFormation • Redux • SonarQube • Jenkins • Atlassian Confluence
 
